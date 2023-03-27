@@ -15,4 +15,7 @@ Criei-o com o obejtivo de praticar skills de um front-end developer. Por exemplo
 * Git para versionamento de código; e
 * Github Pages para publica-lo.
 
+# Referências
+* [The Odin Project -> Project Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
+
 
