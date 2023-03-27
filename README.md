@@ -3,7 +3,7 @@
 
 Site de receitas culinárias preferidas.
 
-Para visualiza-lo, [click aqui](www.google.com).
+Para visualiza-lo, [click aqui](https://renata-moreno.github.io/odin-recipes/).
 
 Alguns prints:
 
